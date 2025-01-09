@@ -1,12 +1,8 @@
 # Hi, I'm Ramajayam K! 👋
 
-Full Stack Developer | Passionate about building efficient, scalable web applications using ReactJS, Laravel, and MySQL. Focused on creating seamless user experiences and robust back-end solutions.
-
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-
 ## 🚀 About Me
 
-        Highly skilled Full Stack Developer with 2 years of experience in designing, developing, and deploying scalable web applications. Proficient in front-end technologies such as HTML, CSS, JavaScript, and Bootstrap, combined with expertise in back-end development using PHP, Laravel, and MySQL. Adept at creating intuitive user interfaces and optimizing back-end functionalities to deliver seamless, high-performance solutions. Skilled in managing end-to-end development lifecycles and solving complex technical challenges with innovative approaches. Strong decision-making and problem-solving abilities, committed to driving impactful results in dynamic, fast-paced environments.
+Highly skilled Full Stack Developer with 2 years of experience in designing, developing, and deploying scalable web applications. Proficient in front-end technologies such as HTML, CSS, JavaScript, and Bootstrap, combined with expertise in back-end development using PHP, Laravel, and MySQL. Adept at creating intuitive user interfaces and optimizing back-end functionalities to deliver seamless, high-performance solutions. Skilled in managing end-to-end development lifecycles and solving complex technical challenges with innovative approaches. Strong decision-making and problem-solving abilities, committed to driving impactful results in dynamic, fast-paced environments.
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=laravel,php,react,mysql,git,js,jquery,bootstrap,sass,css,html)](https://skillicons.dev)
