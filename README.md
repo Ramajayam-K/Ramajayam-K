@@ -6,10 +6,7 @@ Highly skilled Full Stack Developer with 2 years of experience in designing, dev
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
-- 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
-- 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
-- ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
+- 🔭 I'm currently working in the VANI FINANCIAL AND ACCOUNTING SERVICES PRIVATE LIMITED.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
@@ -34,8 +31,10 @@ Highly skilled Full Stack Developer with 2 years of experience in designing, dev
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/ramajayam-k-y2611/)
+- Connect with me on [Twitter](https://x.com/RamajayamK11)
+- Connect with me on [Facebook](https://www.facebook.com/profile.php?id=61571718090113)
+- 
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
